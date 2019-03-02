@@ -1,4 +1,4 @@
-# Junior web-developer<hr>
+# Junior web-developer
 
 ## Kate Viarheichyk
 ![Image of Kate](https://content.freelancehunt.com/profile/photo/225/kateviarheichyk.png)
