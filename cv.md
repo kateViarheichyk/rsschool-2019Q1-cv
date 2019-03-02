@@ -19,5 +19,5 @@ Education
 The Rolling Scope School - Introduction to Web-Development (2019)
 Codecademy - HTML / CSS / JavaScript / Git (2019)
 LearnJavaScript.ru (2019)
-
+ 
 English A2
