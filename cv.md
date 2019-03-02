@@ -1,6 +1,7 @@
 # Junior web-developer<hr>
 
 ## Kate Viarheichyk
+![Image of Kate](https://content.freelancehunt.com/profile/photo/225/kateviarheichyk.png)
  
 +375447274514<br>
 kate.viarheichyk@gmail.com<br>
