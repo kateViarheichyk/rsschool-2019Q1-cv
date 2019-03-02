@@ -6,23 +6,18 @@ Kate Viarheichyk
 kate.viarheichyk@gmail.com
 
 Summary
-My objective is to create and maintain optimally functional websites and applications as tools in achieving the company mission and vision.
-As a part of a competent web developing team, I intend to generate maximum traffic to these projects by showcasing high-quality
-SEO content, user- and mobile-friendly navigation, and promotion to as many social media platforms as possible.
-My years of experience enriched my understanding and skills in web development by working with projects across widely varied niches.
-One of my goals includes constantly improving my expertise in web development. 
-This being said, I look forward to becoming a useful part of the company.
+My objective is to enter junior web developer position in IT company to use my skills in developing and maintaining functional websites and learn new technology as well.I want to create and maintain optimally functional websites and applications as tools in achieving the company's mission and vision. My interests are in developing web pages based on design specifications, integration new features into existing web applications, coordination with graphic designers in developing animations and interactive content. As a part of a competent web developing team, I intend to generate maximum traffic to these projects by showcasing high-quality web-development, user- and mobile-friendly navigation, and including as many social media platforms as possible. My experience enriched my understanding and skills in web development by working with projects across widely varied niches. One of my goals includes constantly improving my expertise in web development. This being said, I look forward to becoming a useful part of the company.
 
 Skills
-Deep knowledge of HTML, CSS, JavaScript
-Excellent knowledge of Photoshop, PSDETCH
-
-Familiarity with commercial web development and release methodologies
+HTML, CSS, JavaScript
+Photoshop, PSDETCH
+VSCode, Version Control / Git, GitHub
 Ability to code for different browsers
-Ability to design, develop and integrate Web application
+Familiarity with commercial web development and release methodologies
 
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
+Education
+The Rolling Scope School - Introduction to Web-Development (2019)
+Codecademy - HTML / CSS
 6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
 фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
 Круто, если это будет со ссылками на код)
