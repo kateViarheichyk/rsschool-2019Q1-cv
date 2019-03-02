@@ -17,9 +17,7 @@ Familiarity with commercial web development and release methodologies
 
 Education
 The Rolling Scope School - Introduction to Web-Development (2019)
-Codecademy - HTML / CSS
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+Codecademy - HTML / CSS / JavaScript / Git (2019)
+LearnJavaScript.ru (2019)
+
+English A2
